@@ -1,5 +1,5 @@
-tuentiChallenge4
-================
+Tuenti Challenge 4 Solutions
+============================
 
 My solutions to the problems of the 2014 hacking contest "Tuenti Challenge 4". 
 All the code has comments (more or less)
